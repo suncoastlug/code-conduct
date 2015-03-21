@@ -24,7 +24,7 @@ but not limited to facebook, meetup, and linked in) and on the IRC network.
   * Be considerate, respectful, and collaborative.
   * Refrain from demeaning, discriminatory or harassing behavior and speech.
   * Be mindful of your surroundings and of your fellow participants.
-  * Alert conference organizers if you notice a dangerous situation or someone in distress.
+  * Alert meeting organizers if you notice a dangerous situation or someone in distress.
 
 ## 4. Unacceptable Behavior
 
