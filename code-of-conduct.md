@@ -47,9 +47,9 @@ meeting venues will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If anyone engages in unacceptable behavior, the conference organizers may take
-any action they deem appropriate including expulsion from the conference
-without warning or refund.
+If anyone engages in unacceptable behavior, the meeting organizers may take
+any action they deem appropriate including expulsion from the meeting or event
+without warning.
 
 ## 6. What to do if you witness or are subject to unacceptable behavior
 
