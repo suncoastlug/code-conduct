@@ -2,22 +2,22 @@
 
 ## 1. Purpose
 
-The Perl Foundation believes our community should be truly open for everyone.
+SLUG believes our community should be truly open for everyone.
 As such, we are committed to providing a friendly, safe and welcoming
 environment for all, regardless of gender, sexual orientation, disability,
 ethnicity, religion, preferred operating system, programming language, or text
 editor.
 
 This code of conduct outlines our expectations for participant behavior. We
-invite all sponsors, volunteers, speakers, attendees, vendors, and other
-participants to help us realize a safe and positive conference experience for
-everyone.
+invite all volunteers, speakers, attendees, and other participants to help us
+realize a safe and positive experience for everyone.
 
 ## 2. Scope
 
-We expect all conference participants (sponsors, volunteers, speakers,
-attendees, vendors, and other guests) to abide by this code of conduct at all
-conference venues and conference-related social events.
+We expect all participants (volunteers, speakers, attendees, and other guests)
+to abide by this code of conduct at all meetings, hacking sessions, and other
+events. These same rules also apply on our social media properties (including,
+but not limited to facebook, meetup, and linked in) and on the IRC network.
 
 ## 3. Expected Behavior
 
@@ -29,7 +29,7 @@ conference venues and conference-related social events.
 ## 4. Unacceptable Behavior
 
 Unacceptable behaviors include: intimidating, harassing, abusive,
-discriminatory, derogatory or demeaning conduct by any attendees. All YAPC::NA
+discriminatory, derogatory or demeaning conduct by any attendees. All meeting
 venues may be shared with members of the public; please be respectful to all
 patrons of these locations.
 
@@ -42,8 +42,8 @@ unwelcome sexual attention.
 
 ## 5. Consequences of Unacceptable Behavior
 
-Unacceptable behavior by other attendees, organizers, venue staff, sponsors,
-or other patrons of YAPC::NA venues will not be tolerated.
+Unacceptable behavior by other attendees, organizers, or other patrons of
+meeting venues will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
@@ -55,15 +55,11 @@ without warning or refund.
 
 If you are subject to unacceptable behavior, notice that someone else is being
 subject to unacceptable behavior, or have any other concerns, please notify
-[coc@yapcna.org](mailto:coc@yapcna.org) if possible or if impractical, Will
-Braswell as soon as possible.
+[conductor@suncoastlug.org](mailto:conductor@suncoastlug.org) if possible or if impractical, Dylan
+Hardison as soon as possible.
 
 ## Contact Information:
 
-
-
-    YAPC::NA Director
-    +1 512-655-9272
-    [coc@yapcna.org](mailto:coc@yapcna.org)
-
-
+    President of SLUG
+    +1 727-804-2802
+    [conductor@suncoastlug.org](mailto:conductor@suncoastlug.org)
