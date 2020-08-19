@@ -1,59 +1,15 @@
-# Code of Conduct
+Suncoast Linux Users Group Code of Conduct
 
-## 1. Purpose
+With thanks to the [Serverless Meetup NYC](https://www.meetup.com/Serverless-NYC/)
 
-SLUG believes our community should be truly open for everyone.
-As such, we are committed to providing a friendly, safe and welcoming
-environment for all, regardless of gender, sexual orientation, disability,
-ethnicity, religion, preferred operating system, programming language, or text
-editor.
+The Suncoast Linux Users Group (SLUG) is dedicated to providing a harassment-free community for everyone, regardless of sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs. We do not tolerate harassment of community members in any form. Participants violating these rules may be sanctioned or expelled from the community at the discretion of the SLUG organizers.
 
-This code of conduct outlines our expectations for participant behavior. We
-invite all volunteers, speakers, attendees, and other participants to help us
-realize a safe and positive experience for everyone.
+Harassment includes offensive verbal or written comments related to sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs, deliberate intimidation, threats, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is not appropriate for any Serverless Meetup NYC event or communication channel. Community members asked to stop any harassing behavior are expected to comply immediately.
 
-## 2. Scope
+If a community member engages in harassing behavior, the SLUG organizers may take any action they deem appropriate, including warning the offender, expulsion from  SLUG, and/or removal from an event. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an Serverless Meetup NYC organizer immediately, or as soon as you feel comfortable doing so.
 
-We expect all participants (volunteers, speakers, attendees, and other guests)
-to abide by this code of conduct at all meetings, hacking sessions, and other
-events. These same rules also apply on our social media properties (including,
-but not limited to facebook, meetup, and discord)
+The SLUG organizers are listed in [this Meetup group](https://www.meetup.com/Suncoast-LUG/) and can be contacted individually or as a group through Meetup.
 
-## 3. Expected Behavior
+If you have questions or feedback about this Code of Conduct please contact the organizers.
 
-  * Be considerate, respectful, and collaborative.
-  * Refrain from demeaning, discriminatory or harassing behavior and speech.
-  * Be mindful of your surroundings and of your fellow participants.
-  * Alert meeting organizers if you notice a dangerous situation or someone in distress.
-
-## 4. Unacceptable Behavior
-
-Unacceptable behaviors include: intimidating, harassing, abusive,
-discriminatory, derogatory or demeaning conduct by any attendees. All meeting
-venues may be shared with members of the public; please be respectful to all
-patrons of these locations.
-
-Harassment includes: offensive verbal comments related to gender, sexual
-orientation, race, religion, disability; inappropriate use of nudity and/or
-sexual images (including presentation slides); deliberate intimidation,
-stalking or following; harassing photography or recording; sustained
-disruption of talks or other events; inappropriate physical contact, and
-unwelcome sexual attention.
-
-## 5. Consequences of Unacceptable Behavior
-
-Unacceptable behavior by other attendees, organizers, or other patrons of
-meeting venues will not be tolerated.
-
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-
-If anyone engages in unacceptable behavior, the meeting organizers may take
-any action they deem appropriate including expulsion from the meeting or event
-without warning.
-
-## 6. What to do if you witness or are subject to unacceptable behavior
-
-If you are subject to unacceptable behavior, notice that someone else is being
-subject to unacceptable behavior, or have any other concerns, please notify
-[conductor@suncoastlug.org](mailto:conductor@suncoastlug.org) if possible or if impractical, Dylan
-Hardison as soon as possible.
+This Code of Conduct, like its inspiration from the Serverless Meetup NYC, is licensed under the Creative Commons Zero license.
