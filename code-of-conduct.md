@@ -17,7 +17,7 @@ realize a safe and positive experience for everyone.
 We expect all participants (volunteers, speakers, attendees, and other guests)
 to abide by this code of conduct at all meetings, hacking sessions, and other
 events. These same rules also apply on our social media properties (including,
-but not limited to facebook, meetup, and linked in) and on the IRC network.
+but not limited to facebook, meetup, and discord)
 
 ## 3. Expected Behavior
 
