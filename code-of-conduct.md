@@ -57,9 +57,3 @@ If you are subject to unacceptable behavior, notice that someone else is being
 subject to unacceptable behavior, or have any other concerns, please notify
 [conductor@suncoastlug.org](mailto:conductor@suncoastlug.org) if possible or if impractical, Dylan
 Hardison as soon as possible.
-
-## Contact Information:
-
-    President of SLUG
-    +1 727-804-2802
-    [conductor@suncoastlug.org](mailto:conductor@suncoastlug.org)
